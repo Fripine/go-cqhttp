@@ -482,8 +482,8 @@ func newClient() *client.QQClient {
 }
 
 var remoteVersions = map[int]string{
-	1: "https://raw.githubusercontent.com/RomiChan/protocol-versions/master/android_phone.json",
-	6: "https://raw.githubusercontent.com/RomiChan/protocol-versions/master/android_pad.json",
+	1: "https://raw.githubusercontent.com/Fripine/protocol-versions/master/android_phone.json",
+	6: "https://raw.githubusercontent.com/Fripine/protocol-versions/master/android_pad.json",
 }
 
 func getRemoteLatestProtocolVersion(protocolType int) ([]byte, error) {
