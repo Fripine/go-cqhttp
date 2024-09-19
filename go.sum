@@ -2,8 +2,8 @@ github.com/FloatTech/sqlite v1.6.3 h1:MQkqBNlkPuCoKQQgoNLuTL/2Ci3tBTFAnVYBdD0Wy4
 github.com/FloatTech/sqlite v1.6.3/go.mod h1:zFbHzRfB+CJ+VidfjuVbrcin3DAz283F7hF1hIeHzpY=
 github.com/FloatTech/ttl v0.0.0-20220715042055-15612be72f5b h1:tvciXWq2nuvTbFeJGLDNIdRX3BI546D3O7k7vrVueZw=
 github.com/FloatTech/ttl v0.0.0-20220715042055-15612be72f5b/go.mod h1:fHZFWGquNXuHttu9dUYoKuNbm3dzLETnIOnm1muSfDs=
-github.com/Fripine/MiraiGo v0.0.0-20240919064119-fa619d7baae9 h1:eeoaq/ottYiSzs0ZewFQ56S7M0b2Fw8ghPVtjwWxW0Y=
-github.com/Fripine/MiraiGo v0.0.0-20240919064119-fa619d7baae9/go.mod h1:8UqemQNDYouAaQp2ram1Erg5mbDSbLsHOKLivdhvoe4=
+github.com/Fripine/MiraiGo v0.0.0-20240919174720-fda218aa6c12 h1:BH2I0WmpakdIZ0vvxEjWc4GPE3n5TuCVoycouK/ht8I=
+github.com/Fripine/MiraiGo v0.0.0-20240919174720-fda218aa6c12/go.mod h1:8UqemQNDYouAaQp2ram1Erg5mbDSbLsHOKLivdhvoe4=
 github.com/Microsoft/go-winio v0.6.2-0.20230724192519-b29bbd58a65a h1:aU1703IHxupjzipvhu16qYKLMR03e+8WuNR+JMsKfGU=
 github.com/Microsoft/go-winio v0.6.2-0.20230724192519-b29bbd58a65a/go.mod h1:OZqLNXdYJHmx7aqq/T6wAdFEdoGm5nmIfC4kU7M8P8o=
 github.com/RomiChan/protobuf v0.1.1-0.20230204044148-2ed269a2e54d h1:/Xuj3fIiMY2ls1TwvPKmaqQrtJsPY+c9s+0lOScVHd8=
